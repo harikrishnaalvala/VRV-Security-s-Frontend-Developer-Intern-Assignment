@@ -40,6 +40,6 @@ Getting Started
 To run the application locally, follow these steps:
 
 1.  Clone the repository: ```https://github.com/harikrishnaalvala/VRV-Security-s-Frontend-Developer-Intern-Assignment.git```
-2. Navigate to the project directory:```cd <repository-name>```
+2. Navigate to the project directory:```cd VRV-Security-s-Frontend-Developer-Intern-Assignment```
 3. Install the dependencies: ```npm install```
 4. Start the development server: ```npm start```
